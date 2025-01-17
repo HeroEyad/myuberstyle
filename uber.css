@@ -45,7 +45,7 @@ Removed alot unwanted shit from root
 }
 
 .Avatar img {
-    content: url()
+    content: url('https://github.com/HeroEyad/myuberstyle/blob/main/assets/beahero.png?raw=true')
 }
 
 .MemberLink indicator.Online {
